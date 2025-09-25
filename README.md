@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello! I'm Jessica 👋
+
+- 🌱 I’m a senior student at Penn State Behrend majoring in Digital Media, Arts, and Technology (DIGIT) and minoring in Data Visualization, and Game Development
+- 🔭 I work at Penn State Behrend's VARIA Lab and I am an intern and the Erie Art Museum.
+- 💬 Ask me about rabbits!
+- 📫 How to reach me: jvs7215@psu.edu
+- 😄 Pronouns: she/her
+
 
 <!--
 **jvs7215/jvs7215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
