@@ -1,7 +1,7 @@
 ## Hello! I'm Jessica 👋
 
-- 🌱 I’m a senior student at Penn State Behrend majoring in Digital Media, Arts, and Technology (DIGIT) and minoring in Data Visualization, and Game Development.
-- 🔭 I work at Penn State Behrend's VARIA Lab and I am an intern and the Erie Art Museum.
+- 🌱 I’m a graduate from Penn State Behrend majoring in Digital Media, Arts, and Technology (DIGIT) with a minor in Data Visualization, and a minor Game Development.
+- 🔭 I'm currently looking for a full-time job.
 - 💬 Ask me about rabbits!
 - 📫 How to reach me: jsalemme5@gmail.com
 - 😄 Pronouns: she/her
