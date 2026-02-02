@@ -13,13 +13,13 @@ I am a **Digital Media, Arts, and Technology (DIGIT)** professional and a Penn S
 - **Data & Design:** RStudio, Excel, Adobe Creative Cloud, Autodesk Maya
 - **Version Control:** Git, GitHub, Command Line
 
-### 📈 Highlighted Projects
+### 📈 Highlighted Projects\
 
-- **[Bloodreign | 2D Roguelite](https://github.com/nfb5422/GAME480---Vampire-Project):** A fast-paced, high-stakes vampire roguelite developed in **Godot**. Features procedural challenges, a complex skill tree, and **original, hand-pixeled art**. Developed as part of a collaborative team for my capstone course.
+- **[Tesseract OCR Tool](https://github.com/jvs7215):** A custom tool build with the Tesseract engine to automate the digitization of museum archives. This project focused on improving metadata accuracy and reducing manual processing time for historical documents.
 
-- **[Tesseract OCR Tool](https://github.com/jvs7215):** A custom tool utilizing the Tesseract engine to automate the digitization of museum archives. This project focused on improving metadata accuracy and reducing manual processing time for historical documents.
+- **[Bloodreign | 2D Roguelite](https://github.com/nfb5422/GAME480---Vampire-Project):** A fast-paced, high-stakes vampire roguelite developed in Godot. Features procedural challenges, a complex skill tree, and original, hand-pixeled art*. Developed as part of a collaborative team for my capstone course.
 
-- **[Digitization Article](https://github.com/jvs7215/digitization):** An in-depth article exploring the processes and importance of digitization. The project is presented through a custom web interface utilizing a **Neo-Brutalism aesthetic** to explore modern front-end design trends.
+- **[Digitization Article](https://github.com/jvs7215/digitization):** An in-depth article exploring the processes and importance of digitization. The project is presented through a custom web interface utilizing a Neo-Brutalism style to explore modern front-end design trends.
 
 ### 💬 Let's Connect!
 - 📫 **Email:** [jsalemme5@gmail.com](mailto:jsalemme5@gmail.com)
